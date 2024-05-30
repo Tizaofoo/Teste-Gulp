@@ -2,6 +2,7 @@
 'use strict'
 
 const gulp = require('gulp')
+const sass = require('gulp-sass') (require('sass'));
 const autoprefixer = require('gulp-autoprefixer')
 const csso = require('gulp-csso')
 const htmlmin = require('gulp-htmlmin')
